@@ -19,6 +19,7 @@
                             <tr>
                                 <th>#</th>
                                 <th>Package Description</th>
+                                {{-- show delivery persaon details here. due to time cannot completed  --}}
                                 <th>Length (cm)</th>
                                 <th>Height (cm)</th>
                                 <th>Width (cm)</th>
